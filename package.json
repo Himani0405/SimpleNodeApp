@@ -1,12 +1,13 @@
 {
   "name": "simplenodejsapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node Application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Himani Thool",
+  "type":"module",
+  "author": "Himani",
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.0"
